@@ -6,6 +6,7 @@ import Delete from './components/Delete';
 import Search from './components/Search';
 import View from './components/View';
 import Nav from './components/Nav';
+import Main from './components/Main';
 
 function App() {
   return (
